@@ -1,6 +1,6 @@
 n=str(input())
-m=['a','e','i','o','u','A','E','I','O','U']
-if n in m:
+r=['a','e','i','o','u','A','E','I','O','U']
+if n in r:
     print("Vowel")
 else:
     print("Consonant")
